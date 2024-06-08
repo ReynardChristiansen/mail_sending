@@ -1,13 +1,14 @@
 
-# User Management Frontend
-This repository contains the frontend component of a MERN (MongoDB, Express.js, React.js, Node.js) application, designed to efficiently manage user data and provide a seamless user experience through a user-friendly interface.
-## Functionality
+## Mail Sending Frontend
 
+This repository contains the frontend component of an application designed for sending emails, providing a user-friendly interface for composing and sending emails seamlessly.
+
+## Functionality
 If you'd like to explore the backend, you're welcome to visit the following URL
-- https://github.com/ReynardChristiansen/api_user
+- https://github.com/ReynardChristiansen/api_mail
 
 If you'd like to explore the frontend, you're welcome to visit the following URL
-- https://user-management-self-two.vercel.app/
+- https://mail-sending-two.vercel.app/
 
 
 
