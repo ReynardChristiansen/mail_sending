@@ -3,6 +3,8 @@
 
 This repository contains the frontend component of an application designed for sending emails, providing a user-friendly interface for composing and sending emails seamlessly.
 
+![image alt](https://github.com/ReynardChristiansen/mail_sending/blob/main/Project.png?raw=true)
+
 ## Functionality
 If you'd like to explore the backend, you're welcome to visit the following URL
 - https://github.com/ReynardChristiansen/api_mail
